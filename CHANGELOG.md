@@ -1,5 +1,13 @@
 ## 0.0.11
 
+## 0.0.12
+
+### Patch Changes
+
+- df6574f: test2
+- 115cd07: just a test
+- dd736d5: dsdsd
+
 ### Patch Changes
 
 - fc24183: gg
