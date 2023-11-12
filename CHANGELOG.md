@@ -1,12 +1,5 @@
 ## 0.0.11
 
-## 0.0.13
-
-### Patch Changes
-
-- 3b66ad2: just a test
-- 3b66ad2: dsdsd
-
 ### Patch Changes
 
 - fc24183: gg
