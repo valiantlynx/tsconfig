@@ -10,7 +10,7 @@
     "changeset": "changeset",
     "publish:packages": "changeset publish",
     "version:packages": "changeset version",
-    "release": "yarn publish:packages && yarn version:packages"
+    "release": "changeset && yarn publish:packages"
   },
   "publishConfig": {
     "access": "public"
