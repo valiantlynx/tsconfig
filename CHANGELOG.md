@@ -1,5 +1,12 @@
 ## 0.0.11
 
+## 0.0.12
+
+### Patch Changes
+
+- 53f66f6: test2
+- 53f66f6: tst 3
+
 ### Patch Changes
 
 - fc24183: gg
